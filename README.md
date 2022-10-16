@@ -38,4 +38,9 @@ The following responses are also added to each of these prompts as part of the f
 
 <img width="425" alt="Screenshot 2022-10-16 163950" src="https://user-images.githubusercontent.com/53871648/196031937-5cf99b67-7d0d-44b4-9014-c74ef2c7411b.png">
 
+This follow-up intent was set as the end of the conversation. The chatbot was also tested on Google Assistant, and was responsive to voice commands as well. 
 
+The chatbot is linked at the top of the file, and was found to be responsive to the user intents. 
+
+# Further Scope:
+Since Dialogflow allows for integration of the chatbot with multiple platforms, a more advanced version of this chatbot will be able to integrate Google Maps into its implementation - using the pincode entered by the user, it will be able to locate the closest Starbucks outlet, display its menu, and ask the user for more data. It will also be able to forward the collected data to the store once it is integrated with an appropriate database. More variables and intents can be added to ask for customer feedback as well.

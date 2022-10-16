@@ -34,6 +34,8 @@ For the temperature, the user is offerred a choice between a hot or an iced drin
 
 <img width="609" alt="Screenshot 2022-10-16 163738" src="https://user-images.githubusercontent.com/53871648/196031877-336b633d-838e-4e8f-bbd8-c04790bc89fb.png">
 
+The following responses are also added to each of these prompts as part of the follow-up intent:
 
+<img width="425" alt="Screenshot 2022-10-16 163950" src="https://user-images.githubusercontent.com/53871648/196031937-5cf99b67-7d0d-44b4-9014-c74ef2c7411b.png">
 
 

@@ -11,3 +11,7 @@ Started by setting up a default intent with the following set of user prompts:
 After giving user prompts, the following text responses were also fed to the chatbot as part of the training phrases:
 
 <img width="659" alt="Screenshot 2022-10-16 162145" src="https://user-images.githubusercontent.com/53871648/196031302-c939cc3b-689b-4c9b-b72f-d27de53df5a5.png">
+
+After setting up the default welcome intent, some follow-up intent was added to ask for more data from the user - as soon as the chatbot is triggered, it first asks the user for their pincode or zipcode to locate the nearest Starbucks outlet for delivery. The user responses for this are as follows:
+
+<img width="440" alt="Screenshot 2022-10-16 162940" src="https://user-images.githubusercontent.com/53871648/196031609-ecf83282-3f91-43fb-9e88-885ab7d6a9f8.png">

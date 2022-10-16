@@ -19,3 +19,21 @@ After setting up the default welcome intent, some follow-up intent was added to 
 The following actions and parameters were added: apart from the zipcode which is a number entity, the size, temperature, and name of the drink are added as some more parameters with a sys.any type of entity:
 
 <img width="634" alt="Screenshot 2022-10-16 163340" src="https://user-images.githubusercontent.com/53871648/196031749-37071e99-dc76-4fcf-b2c5-e04cb9b104eb.png">
+
+Additional prompts are added for each of these parameters:
+For the size:
+
+<img width="728" alt="Screenshot 2022-10-16 163511" src="https://user-images.githubusercontent.com/53871648/196031803-e1cd7a18-f8be-4a7f-8168-11d10fe427df.png">
+
+For the name of the drink:
+
+<img width="600" alt="Screenshot 2022-10-16 163631" src="https://user-images.githubusercontent.com/53871648/196031840-59672f92-f576-45a9-b35a-15f9c02952be.png">
+
+For the temperature, the user is offerred a choice between a hot or an iced drink:
+
+
+<img width="609" alt="Screenshot 2022-10-16 163738" src="https://user-images.githubusercontent.com/53871648/196031877-336b633d-838e-4e8f-bbd8-c04790bc89fb.png">
+
+
+
+

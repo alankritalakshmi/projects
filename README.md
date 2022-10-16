@@ -7,3 +7,7 @@ This is an attempt to create a no-code chatbot for ordering coffee from Starbuck
 Started by setting up a default intent with the following set of user prompts:
 
 <img width="446" alt="Screenshot 2022-10-16 161510" src="https://user-images.githubusercontent.com/53871648/196031080-eccab09c-a996-454d-8b12-319ef8e74d0f.png">
+
+After giving user prompts, the following text responses were also fed to the chatbot as part of the training phrases:
+
+<img width="659" alt="Screenshot 2022-10-16 162145" src="https://user-images.githubusercontent.com/53871648/196031302-c939cc3b-689b-4c9b-b72f-d27de53df5a5.png">
